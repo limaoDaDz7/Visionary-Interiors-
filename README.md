@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Visionary Interiors - AI Design Consultant
 
-# Run and deploy your AI Studio app
+Meet Visionary Interiors: Your personal, AI-powered design consultant. Simply upload a photo of your current room, and let our advanced AI reimagine your space in seconds. Tweak every detail through natural conversation and bring your dream home to life.
 
-This contains everything you need to run your app locally.
+## 🔗 Live Demo
+[Click here to try it!](https://visionary-interiors-426802437792.us-west1.run.app/)
 
-View your app in AI Studio: https://ai.studio/apps/51d80985-a86b-4619-92a6-6fd2ea98191e
+## 🛠️ Built With
+* Google AI Studio
+* Gemini AI
+* Custom prompt engineering
 
-## Run Locally
+## 💡 About
+Transform any room in seconds with the power of generative AI. Visionary Interiors acts as your interactive, digital interior designer. 
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* **Instant Visualizations:** Upload a photo of any room and get immediate design inspiration.
+* **Conversational Customization:** Chat with your AI consultant in natural language to refine colors, adjust layouts, and swap out decor elements.
+* **Accessible Design:** Professional-level interior design brainstorming, available instantly to anyone with a camera.
