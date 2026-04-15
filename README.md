@@ -1,2 +1,20 @@
-# Visionary-Interiors-
-Meet Visionary Interiors: Your personal, AI-powered design consultant. Simply upload a photo of your current room, and let our advanced AI reimagine your space in seconds. Tweak every detail through natural conversation and bring your dream home to life.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/51d80985-a86b-4619-92a6-6fd2ea98191e
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
